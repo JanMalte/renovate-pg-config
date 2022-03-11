@@ -4,5 +4,5 @@
 #
 #    pip-compile
 #
-psycopg2==2.8.6
+psycopg2==2.9.3
     # via -r requirements.in
